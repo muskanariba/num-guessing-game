@@ -1,0 +1,36 @@
+body{
+    background-image: url(bg2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.divmain{
+    background-color: rgb(163, 160, 160);
+    position: absolute;
+    top: 0%;
+    bottom: 0%;
+    right: 0%;
+    left: 0%;
+    margin: auto;
+    height: 250px;
+    width: 400px;
+    border-radius: 6px;
+    
+    
+}
+.set{
+    margin-left: 20px
+}
+#input{
+    width: 250px;
+    height: 25px;
+   border-radius: 5px;
+   border: white;
+}
+#btn{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border: none;
+    height: 28px;
+    width: 100px;
+    border-radius: 5px;
+}
